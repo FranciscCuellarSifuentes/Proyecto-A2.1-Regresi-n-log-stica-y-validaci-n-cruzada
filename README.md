@@ -10,3 +10,10 @@ El archivo consolidado contiene 22 columnas y 2938 filas, lo que representa un t
 
 En el proyecto que se desarrollará a continuación se buscará identificar si, a partir de información relacionada con factores de salud y economía, es posible predecir la esperanza de vida de una población. Además, caracterizar la relación entre la tasa de mortalidad adulta y la esperanza de vida, analizando su impacto en diferentes países y periodos de tiempo.
 
+Índice:
+
+[Vista Previa](./PP1598303.html)
+
+[Codigo.jpynb](./PP1598303.ipynb)
+
+[Base de Datos](./Life_Expectancy_Data.xls)
