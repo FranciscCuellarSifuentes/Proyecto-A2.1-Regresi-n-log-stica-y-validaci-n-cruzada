@@ -12,8 +12,8 @@ En el proyecto que se desarrollará a continuación se buscará identificar si, 
 
 Índice:
 
-[Vista Previa](./PP1598303.html)
+[Vista Previa](./A2.1_598303.html)
 
-[Codigo.jpynb](./PP1598303.ipynb)
+[Codigo.jpynb](./A2.1_598303.ipynb)
 
-[Base de Datos](./Life_Expectancy_Data.xls)
+[Base de Datos](./Life_Expectancy_Dat.xls)
